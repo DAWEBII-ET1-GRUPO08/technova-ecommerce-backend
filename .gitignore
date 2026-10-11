@@ -1,0 +1,44 @@
+# Java / Maven
+**/target/
+*.class
+*.jar
+*.war
+*.log
+
+# Maven Wrapper
+!**/.mvn/wrapper/maven-wrapper.jar
+
+# IntelliJ IDEA
+.idea/
+**/.idea/
+*.iml
+*.iws
+*.ipr
+
+# VS Code
+.vscode/
+**/.vscode/
+
+# Eclipse / STS
+.classpath
+.project
+.settings/
+.factorypath
+.springBeans
+.sts4-cache/
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Environment / Secrets
+.env
+.env.*
+**/.env
+**/.env.*
+
+# Temporary
+*.tmp
+*.temp
+*.swp
